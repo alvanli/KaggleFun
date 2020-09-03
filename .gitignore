@@ -1,3 +1,6 @@
-HealthAnal/DATA/
+HealthAnalytics/DATA/
+HealthAnalytics/.ipynb_checkpoints/
+ChestXRay/.ipynb_checkpoints/
 ChestXRay/DATA/
+Solar/.ipynb_checkpoints/
 Solar/DATA/
