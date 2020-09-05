@@ -1,0 +1,2 @@
+grid search, random search
+dim reduction via PCA, LLE
