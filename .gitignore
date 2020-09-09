@@ -2,6 +2,8 @@ HealthAnalytics/DATA/
 HealthAnalytics/.ipynb_checkpoints/
 ChestXRay/.ipynb_checkpoints/
 ChestXRay/DATA/
+ChestXRay/DATA.zip
+ChestXRay/Models/
 Solar/.ipynb_checkpoints/
 Solar/DATA/
 HealthAnalytics/catboost_info/
