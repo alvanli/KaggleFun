@@ -7,3 +7,5 @@ ChestXRay/Models/
 Solar/.ipynb_checkpoints/
 Solar/DATA/
 HealthAnalytics/catboost_info/
+Sales/DATA/test_data.pkl
+Sales/DATA/train_data.pkl
