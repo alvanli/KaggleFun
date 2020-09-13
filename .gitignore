@@ -9,3 +9,7 @@ Solar/DATA/
 HealthAnalytics/catboost_info/
 Sales/DATA/test_data.pkl
 Sales/DATA/train_data.pkl
+Sales/DATA/test_15.pkl
+Sales/.ipynb_checkpoints/
+Sales/DATA/test_10.pkl
+Sales/DATA/train_10.pkl
